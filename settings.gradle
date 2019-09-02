@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Android_Tuan2_bt5_tulamgiaodien'
